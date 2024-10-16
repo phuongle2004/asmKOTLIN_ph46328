@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340751648871",
+    "project_id": "duancomtam46328-f1abe",
+    "storage_bucket": "duancomtam46328-f1abe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340751648871:android:4d75f8c06a7888b1ebecc2",
+        "android_client_info": {
+          "package_name": "com.kotlin.asmkotlin_ph46328"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_h3wZJTRX1TqE_irOzihpa8DhjhFhRQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
